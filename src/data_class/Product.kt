@@ -1,7 +1,7 @@
 package data_class
 import enum_class.TipoProducto
 
-data class Producto(
+data class Product(
     val id: Int,
     val nombre: String,
     val precio: Float,
